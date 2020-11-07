@@ -1,0 +1,6 @@
+name: InventoryShare
+version: ${project.version}
+main: org.lastdice.inventoryshare.InventoryShare
+api-version: 1.16
+authors: [ LastDice ]
+description: [ 지식인 LastDice ] 질문에 나온 내용을 기반으로 작성된 플러그인입니다.
