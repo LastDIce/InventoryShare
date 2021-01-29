@@ -19,11 +19,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.ArrayList;
 import java.util.Collections;
-public final class InventoryShare extends JavaPlugin implements Listener {
-
-    private final ArrayList<Material> BlockList = new ArrayList<>();
-    private Material nowBlock;
-    private int slot_Num = 0;
+public final class InventoryShare extends JavaPlugin implements Listener 
 
     @Override
     public void onEnable() {
